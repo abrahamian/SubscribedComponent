@@ -1,0 +1,25 @@
+{
+  "name": "subscribed-component",
+  "version": "1.0.0",
+  "description": "Higher-order React component, waits for Meteor subscription readiness to render children",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamian/SubscribedComponent.git"
+  },
+  "keywords": [
+    "meteor",
+    "react",
+    "functional",
+    "async"
+  ],
+  "author": "Mihran Abrahamian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrahamian/SubscribedComponent/issues"
+  },
+  "homepage": "https://github.com/abrahamian/SubscribedComponent#readme"
+}
